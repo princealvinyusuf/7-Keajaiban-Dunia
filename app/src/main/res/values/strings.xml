@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">7 Keajaiban Dunia</string>
+    <string name="content_text">Borobudur adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terletak kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta.</string>
+    <string name="sistem_stuktur">Piramida berundak dari susunan blok batu andesit yang saling mengunci</string>
+    <string name="ukuran">Luas dasar 123×123 meter, tinggi kini 35 meter, tinggi asli 42 meter (termasuk chattra)</string>
+    <string name="arsitek">Gunadharma</string>
+    <string name="lokasi">Kecamatan Borobudur, sekitar 3 km dari Kota Mungkid (ibukota Kabupaten Magelang, Jawa Tengah), Indonesia</string>
+
+    <string name="content_text2">Dinamai sesuai nama perancangnya, Gustave Eiffel, adalah bangunan tertinggi di Paris dan salah satu struktur terkenal di dunia. Lebih dari 200.000.000 orang telah mengunjungi menara ini sejak pembangunannya tahun 1889, termasuk 6.719.200 orang tahun 2006, menjadikannya monumen berbayar yang paling banyak dikunjungi di dunia. Termasuk antena setinggi 24 m (79 kaki), struktur ini memiliki tinggi 325 m (1.063 kaki) sejak 2000, yang sama dengan bangunan konvensional bertingkat 81.</string>
+    <string name="sistem_stuktur2">Struktur besi Menara Eiffel berbobot 7.300 ton sementara keseluruhan struktur termasuk komponen non-besi berbobot 10.000 ton. Tergantung temperatur, puncak menara dapat menjauhi matahari 18 cm (7 inci) karena pemuaian besi pada bagian yang menghadap matahari. </string>
+    <string name="ukuran2">luas dasar 4.200 m2, tinggi antena 324 meter (1063 ft), tinggi atap 300,65 meter (986 ft)</string>
+    <string name="arsitek2">Gustave Eiffel</string>
+    <string name="lokasi2">Paris, Prancis</string>
+
+    <string name="content_text3">Tembok Besar Tiongkok atau Tembok Raksasa Tiongkok, juga dikenal di Tiongkok dengan nama Tembok Sepanjang 10.000 Li¹ adalah bangunan terpanjang yang pernah diciptakan manusia yang berlokasi di Tiongkok. </string>
+    <string name="sistem_stuktur3">Material yang digunakan untuk membuat tembok raksasa beda-beda sesuai periode dinasti. Sebelum batu bata ditemukan, tembok besar dibuat dari tanah, batu dan kayu. Karena pembangunannya selalu membutuhkan sumber daya yang banyak, para pekerja memanfaatkan bahan-bahan yang seadanya. Saat melewati gunung, batu gunung akan digunakan.</string>
+    <string name="ukuran3">Menurut pengukuran, panjang keseluruhan tembok mencapai 8.850 km. Proyek tersebut juga telah menemukan bagian-bagian tembok lain yang panjangnya 359 km, parit sepanjang 2232 km, serta pembatas alami seperti perbukitan dan sungai sepanjang 2232 km. Rentang rata-rata Tembok Besar Tiongkok adalah 5000 km, umumnya dikutip dari berbagai catatan sejarah.</string>
+    <string name="arsitek3"> Arsitektur Tiongkok Dinasti Ming</string>
+    <string name="lokasi3">Shanhaiguan, Berbatasan dengan Laut Cina Selatan , Jiayuguan di provinsi Gansu</string>
+
+    <string name="content_text4">Menara Miring Pisa, atau lebih dikenal dengan Menara Pisa, adalah sebuah campanile atau menara lonceng katedral di kota Pisa, Italia. Menara Pisa sebenarnya dibuat agar berdiri secara vertikal seperti menara lonceng pada umumnya, tetapi mulai miring tak lama setelah pembangunannya dimulai pada Agustus 1173.</string>
+    <string name="sistem_stuktur4">Sebenarnya, Menara Miring tersebut seharusnya berdiri tegak setinggi 55 meter, tetapi dikarenakan Menara Miring Pisa dibangun di atas tanah yang tidak stabil, Menara tersebut akhirnya miring dari garis lurus sepanjang 5 meter.</string>
+    <string name="ukuran4">Ketinggian menara ini adalah 55,86 m dari permukaan tanah terendah dan 56,70 m dari permukaan tanah tertinggi. Kelebaran dinding di bawahnya mencapai 4,09 m dan di puncak 2,48 m. Bobotnya diperkirakan mencapai 14.500 ton.</string>
+    <string name="arsitek4">Bonanno Pisano</string>
+    <string name="lokasi4">Pisa, Italia</string>
+
+    <string name="content_text5">Kolosseum adalah sebuah peninggalan bersejarah berupa arena gladiator, dibangun oleh Vespasian. Tempat pertunjukan yang besar berbentuk elips yang disebut amfiteater atau dengan nama aslinya Flavian Amphitheatre, yang termasuk salah satu dari Enam Puluh Sembilan Keajaiban Dunia Pertengahan. </string>
+    <string name="sistem_stuktur5"> Arenanya terbuat dari kayu berukuran 86 m x 54 m, dan tertutup oleh pasir. Bentuk elips atau bulat dari Koloseum gunanya untuk mencegah para pemain untuk kabur ke arah sudut dan mencegah para penonton untuk berada lebih dekat dengan pertunjukan.</string>
+    <string name="ukuran5">Koloseum berukuran cukup besar. Dengan tinggi 48 m, panjang 188 m, lebar 156 m dan luas seluruh bangunan sekitar 2.5 ha membuat Koloseum terlihat begitu besar dan luas.</string>
+    <string name="arsitek5">Domus Aurea</string>
+    <string name="lokasi5">Roma, Italia</string>
+
+    <string name="content_text6">Sebuah bangunan di tengah-tengah masjid paling suci dalam agama Islam, Masjidil Haram, di Mekkah, Hejaz, Arab Saudi. Tempat ini adalah tempat yang paling disucikan dalam agama Islam.</string>
+    <string name="sistem_stuktur6">Terdapat beberapa bagian dalam Ka\'bah. Bagian-bagian Ka\'bah yang ternama antara lain Maqom Ibrahim, Hijir Ismail, Hajar Aswad dan Rukun (sudut) Ka\'bah.</string>
+    <string name="ukuran6">Tinggi 13,1 m (43 ft)</string>
+    <string name="arsitek6">Nabi Ibrahim dan Nabi Ismail</string>
+    <string name="lokasi6">Mekkah, Hejaz, Arab Saudi</string>
+
+    <string name="content_text7">Piramida Agung Giza adalah piramida tertua dan terbesar dari tiga piramida yang ada di Nekropolis Giza</string>
+    <string name="sistem_stuktur7">Bangunan ini dibangun selama periode 20 tahun dengan menggunakan batu kapur yang bersumber dari Tora, dan granit dari selatan Mesir.</string>
+    <string name="ukuran7">Tinggi 138.8 m, 455.2 ft</string>
+    <string name="arsitek7">Firaun dinasti keempat Mesir, Khufu </string>
+    <string name="lokasi7">Giza, Mesir</string>
+    <string name="title_activity_inti">IntiActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+</resources>
